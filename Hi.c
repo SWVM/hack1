@@ -4,5 +4,6 @@
 int main(int argc, char const *argv[]) {
   printf("Li Linhan  Computer Science\n");
   printf("Jia Jiahua Computer Science\n")
-  return 0;
+  printf("Wendian Zhang Computer Science\n")
+    return 0;
 }
