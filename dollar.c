@@ -8,7 +8,7 @@ int main(int argc, char const *argv[]) {
   printf("Please input the total amount of US Dollars:\n");
 
   double USD = 0;
-  scanf("%f\n", &USD);
+  scanf("%lf", &USD);
   USD *= 0.9;
 
   double JPY = (USD/2) * JPY_PER_USD;
